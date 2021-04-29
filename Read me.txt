@@ -1,0 +1,1 @@
+Read me.In the town, since there are N people, everyone except judge trust the judge. So for the judge, there will be N ? 1 numbers of trust. So I collect all the trust numbers for each member. And use a for loop to check if there anyone¡¯s trusted number is equals to N-1, this man will be the judge.
